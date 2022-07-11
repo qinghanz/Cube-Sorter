@@ -1,5 +1,6 @@
 # ECSE211 Project: Team 11 - EV<sup>3</sup> Sorter
 
+The goal of this project was to implement a Sorting Robot that would be able to automatically sort cubes of different colors, to finally bring a specific requested color cube to its user. On attempting to request a color that is not there, a beeping will be played.
 
 ## Project Software Overview
 
